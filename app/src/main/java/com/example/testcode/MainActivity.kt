@@ -12,7 +12,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         val binding=ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        val name="vishal rana"
+        val name="vishal rana and Himanshu Rana"
+
+        print("name is $name")
         binding.buttonNext.setOnClickListener {
             val intent=Intent(this@MainActivity,MainActivity2::class.java)
             intent.apply {
