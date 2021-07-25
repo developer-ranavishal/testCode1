@@ -34,7 +34,6 @@ class MainActivity2 : AppCompatActivity() {
             }
         }
 
-        hey you are good enough
 
     }
 
