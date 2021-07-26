@@ -33,8 +33,7 @@ class MainActivity2 : AppCompatActivity() {
                 startActivity(intent)
             }
         }
-
-        hey you are good enough
+     //hey you are good enough
 
     }
 
