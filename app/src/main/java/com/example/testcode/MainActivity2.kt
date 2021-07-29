@@ -34,6 +34,7 @@ class MainActivity2 : AppCompatActivity() {
             }
         }
      //hey this is line1 in master
+     //hey this is line 2 in demo1
 
     }
 
