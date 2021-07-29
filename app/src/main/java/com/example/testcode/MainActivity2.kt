@@ -33,7 +33,7 @@ class MainActivity2 : AppCompatActivity() {
                 startActivity(intent)
             }
         }
-     //hey you are good enough
+     //hey this is line1 in master
 
     }
 
